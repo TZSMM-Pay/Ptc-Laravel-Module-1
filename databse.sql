@@ -1,0 +1,2 @@
+
+INSERT INTO `gateways` (`id`, `form_id`, `code`, `name`, `alias`, `status`, `gateway_parameters`, `supported_currencies`, `crypto`, `extra`, `description`, `created_at`, `updated_at`) VALUES (NULL, '0', '133', 'TZSMMPAY', 'TZSMMPAY', '1', '{\"api_key\":{\"title\":\"API Key\",\"global\":true,\"value\":\"2F822Rw39fx762MaV7Yy86jXGTC7sCDy\"}}', '{"USD":"USD","CAD":"CAD","CHF":"CHF","DKK":"DKK","EUR":"EUR","GBP":"GBP","NOK":"NOK","PLN":"PLN","SEK":"SEK","AUD":"AUD","NZD":"NZD","BDT":"BDT"}', 0, NULL, NULL, NULL, '2022-09-10 11:30:15');
